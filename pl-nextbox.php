@@ -5,9 +5,11 @@ Plugin URI: http://www.pagelines.com
 Description: Add ANYTHING anywhere you like and if your host allows it even include PHP!.
 Author: PageLines
 PageLines: true
-Version: 1.0
+Version: 1.1
 Section: true
 Class Name: PLNextBox
+Filter: component, dual-width
+Loading: active
 */
 
 /**
